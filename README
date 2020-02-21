@@ -1,6 +1,12 @@
-Install CUDA toolkit
-pybind11
+A simple template for PyTorch CUDA extensions.
+Simplified version of https://github.com/pytorch/extension-cpp.
 
+Install requirements:
+1. Install CUDA toolkit
+2. Install pybind11
+
+To install:
 python setup.py install
 
-(python3.7 setup.py install --user)
+To run:
+python test.py
