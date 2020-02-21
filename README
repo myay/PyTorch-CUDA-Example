@@ -1,0 +1,6 @@
+Install CUDA toolkit
+pybind11
+
+python setup.py install
+
+(python3.7 setup.py install --user)
