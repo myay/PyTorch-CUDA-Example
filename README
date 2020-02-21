@@ -1,4 +1,4 @@
-A simple template for PyTorch CUDA extensions.
+A minimal example for PyTorch CUDA extensions.
 Simplified version of https://github.com/pytorch/extension-cpp.
 
 Install requirements:
